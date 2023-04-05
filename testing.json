@@ -1,16 +1,9 @@
 {
-  "student": [ 
-	
-     { 
-        "id":"01", 
-        "name": "Tom", 
-        "lastname": "Price" 
-     }, 
-	
-     { 
-        "id":"02", 
-        "name": "Nick", 
-        "lastname": "Thameson" 
-     } 
-  ]   
+  "resources": 
+    {
+      "resourceType": "function-app",
+      "properties": {
+        "name": "fapp1"
+      }
+    }
 }
