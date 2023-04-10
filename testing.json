@@ -1,7 +1,7 @@
 {
   "resources": 
     {
-      "resourceType": "function-app",
+      "resourceType": "event-hub",
       "properties": {
         "name": "fapp1"
       }
